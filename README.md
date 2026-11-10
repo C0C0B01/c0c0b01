@@ -1,6 +1,6 @@
 # Hi there, I'm cocobo1!
 
-I'm a 16 years old full-stack developer based in the UK with a passion for reverse engineering and optimisation
+I'm a 16 year old full-stack developer based in the UK with a passion for reverse engineering and optimisation
 
 ## Some projects I'm working on:
 - [Valenced](https://github.com/valenced)
